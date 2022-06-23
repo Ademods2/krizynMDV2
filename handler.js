@@ -777,13 +777,13 @@ ketik *.off delete* untuk mematikan pesan ini
 global.dfail = (type, m, conn) => {
   let name = conn.getName(m.sender)
   let msg = {
-    rowner: `╭─֍〔 ıll 𝗔𝗿𝘂𝗹𝗹𝗢𝗳𝗰 llı 〕֍─
+    rowner: `╭─֍〔 ıll Ademods llı 〕֍─
 ⬡ Perintah ini hanya untuk developer bot
 ╰─────────────────֍`,
-    owner: `╭─֍〔 ıll *ArullOfc* llı 〕֍─
+    owner: `╭─֍〔 ıll *Ademods* llı 〕֍─
 ⬡ Perintah ini hanya untuk owner bot
 ╰─────────────────֍`,
-    mods: `╭─֍〔 ıll *ArullOfc* llı 〕֍─
+    mods: `╭─֍〔 ıll *Ademods* llı 〕֍─
 ⬡ Perintah ini hanya untuk moderator bot
 ╰─────────────────֍`,
     premium: `╭─֍〔 ıll 𝐏𝐑𝐄𝐌𝐈𝐔𝐌 llı 〕֍─
