@@ -4,8 +4,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y
 pkg install imagemagick -y
 pkg install yarn
-git clone https://github.com/krizynofc/krizynmd
-cd krizynmd
+git clone https://github.com/Ademods2/Terlalu
+cd Terlalu 
 yarn
 node .
 
